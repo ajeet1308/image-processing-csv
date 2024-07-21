@@ -15,6 +15,7 @@
   - [Request Collection](#request-collection)
   - [Product Collection](#product-collection)
 - [Asynchronous Workers Documentation](#asynchronous-workers-documentation)
+- [LLD Draw.io Diagram PDF](#lld-draw.io-diagram-pdf)
 
 ## Introduction
 
@@ -72,3 +73,7 @@ This project is an image processing system designed to handle CSV files containi
 ## Asynchronous Workers Documentation
 
 1: Asynchronous Workers Documentation PDF provided in Repository
+
+# LLD Draw IO
+
+Click the image below to view [LLD.pdf](https://github.com/user-attachments/files/16325981/lld.pdf)
